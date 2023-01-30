@@ -8,7 +8,7 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--Item 2-->
+        <!--Map-->
         <scene sceneID="Azw-V4-fx2">
             <objects>
                 <viewController id="gRB-HI-6nu" sceneMemberID="viewController">
@@ -18,13 +18,13 @@
                         <viewLayoutGuide key="safeArea" id="0Gh-jO-jab"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Item 2" id="q35-gj-8QX"/>
+                    <tabBarItem key="tabBarItem" title="Map" id="q35-gj-8QX"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="fb3-P0-2H6" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-474" y="81"/>
         </scene>
-        <!--Item 1-->
+        <!--Explore-->
         <scene sceneID="RGe-oJ-MNK">
             <objects>
                 <viewController id="Ey9-Z9-Air" sceneMemberID="viewController">
@@ -34,7 +34,7 @@
                         <viewLayoutGuide key="safeArea" id="zax-bI-7g4"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Item 1" id="mlu-sS-6W4"/>
+                    <tabBarItem key="tabBarItem" title="Explore" id="mlu-sS-6W4"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ruL-Pf-v3H" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
